@@ -1,0 +1,53 @@
+# Cisco Packet Tracer Enterprise Network Security
+
+## Overview
+
+Designed and implemented an enterprise network security solution using Cisco Packet Tracer.
+
+The project demonstrates firewall implementation, NAT, DMZ configuration, VPN deployment, Access Control Lists (ACLs), network segmentation, and enterprise security validation within a simulated business environment.
+
+## Technologies Used
+
+- Cisco Packet Tracer
+- Cisco ASA Firewall
+- Cisco CLI
+- Access Control Lists (ACLs)
+- NAT
+- DMZ
+- VPN
+- DHCP
+- DNS
+- HTTP
+- ICMP
+
+## Skills Demonstrated
+
+- Enterprise network security
+- Cisco ASA firewall configuration
+- NAT implementation
+- DMZ configuration
+- VPN deployment
+- Access Control List (ACL) configuration
+- Network segmentation
+- Cisco CLI administration
+- Security validation
+- Network troubleshooting
+
+## Validation
+
+The completed security implementation was validated through firewall testing, ICMP connectivity testing, HTTP service validation, NAT translation verification, Cisco CLI configuration review, and secure network segmentation.
+
+Representative screenshots demonstrate the successful implementation and testing of the enterprise security environment.
+
+## Project Contents
+
+- Enterprise network topology
+- Risk assessment
+- Firewall configuration
+- NAT configuration
+- DMZ configuration
+- VPN implementation
+- Cisco CLI configuration
+- ICMP validation
+- HTTP validation
+- Improved secure network topology
