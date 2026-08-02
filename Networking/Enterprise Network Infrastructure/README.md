@@ -1,4 +1,4 @@
-# Enterprise Network Infrastructure
+# Hands-on Projects
 
 ## Overview
 
