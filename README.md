@@ -12,7 +12,6 @@ This repository showcases practical projects, home lab environments, academic co
 - Cloud (AWS)
 - Cybersecurity
 - Virtualization
-- PowerShell
 - Python
 - HND Projects
 - Certifications
